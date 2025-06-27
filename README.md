@@ -1,5 +1,7 @@
-boxfuse-sample-java-war-hello
+Jenkins+Docker+Java project for building and deploy
 =============================
+
+Devops-school, Aufgabe 11 (Jenkins-pipeline)
 
 Boxfuse Sample Hello World Java application packaged as a war file
 
