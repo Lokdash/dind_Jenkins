@@ -3,6 +3,8 @@ Jenkins+Docker+Java project for building and deploy
 
 Devops-school, Aufgabe 11 (Jenkins-pipeline)
 
+Webapp-project for deploy:
+
 Boxfuse Sample Hello World Java application packaged as a war file
 
 ## Prerequisites
