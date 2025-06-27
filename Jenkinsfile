@@ -49,6 +49,7 @@ pipeline {
       sh '''ssh -tt -i ${sshKey} root@89.169.176.113 << EOF
       docker pull deshan1371/jenkins_homework_build:1.0
       docker run -d -p 8083:8080 deshan1371/jenkins_homework_build:1.0
+      exit
       EOF'''
     }
   }
